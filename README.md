@@ -1,2 +1,2 @@
 # Chromamancy
-Documentation for Chromamancy Spells
+This repository will be to host documentation for Chromamancy
