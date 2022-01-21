@@ -1,2 +1,2 @@
 # Chromamancy
-This repository will be to host documentation for Chromamancy
+This repository hosts documentation for Chromamancy
